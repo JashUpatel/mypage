@@ -181,7 +181,7 @@ hr{
     font-size: 1.35em;
     opacity: 0.9;
     text-align: center;
-    margin-top: 10px;
+    margin-top: 0px;
   }
 
   #jp{
@@ -201,8 +201,8 @@ hr{
     font-family: monospace;
     font-size:1.35em;
     color: #142435e0;
-    margin-top: 35px;
-    margin-bottom: 25px;
+    margin-top: 25px;
+    margin-bottom: 15px;
     text-align: center;
   }
 
