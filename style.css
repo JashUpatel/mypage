@@ -175,15 +175,17 @@ hr{
     transform: translate(-50%,-10%);
   }
   #myself{
+    margin-bottom: 12px;
   color: #142435e0;
     font-family: monospace;
     font-size: 1.35em;
     opacity: 0.9;
     text-align: center;
-    margin-top: auto;
+    margin-top: 10px;
   }
 
   #jp{
+    margin-bottom: 0;
   color: #142435e0;
     margin-left: auto;
     margin-right: auto;
@@ -199,8 +201,8 @@ hr{
     font-family: monospace;
     font-size:1.35em;
     color: #142435e0;
-    margin-top: 45px;
-    margin-bottom: 45px;
+    margin-top: 35px;
+    margin-bottom: 25px;
     text-align: center;
   }
 
